@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "prop-types": "^15.6.2",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "semantic-ui-css": "^2.3.3",
-    "semantic-ui-react": "^0.82.2"
+    "semantic-ui-react": "^0.82.2",
+    "validator": "^10.5.0"
   }
 }
