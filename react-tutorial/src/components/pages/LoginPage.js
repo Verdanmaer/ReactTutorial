@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const LoginPage = () => (
     <div>
@@ -6,4 +6,4 @@ const LoginPage = () => (
     </div>
 );
 
-export default HomePage;
+export default LoginPage;
